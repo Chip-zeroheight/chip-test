@@ -1,0 +1,10 @@
+node_modules
+storybook-static
+storybook-static-2
+dist
+.DS_Store
+
+# Generated from tokens/*.json by scripts/build-tokens.js — regenerated
+# automatically on install/storybook/build, no need to commit.
+src/tokens/*.css
+src/tokens/themes.ts

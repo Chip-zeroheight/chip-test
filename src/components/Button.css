@@ -1,0 +1,56 @@
+.ds-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: calc(var(--primitive-spacing-scale-050) * 1px);
+  border-radius: calc(var(--brand-sizing-radius-medium) * 1px);
+  border-width: calc(var(--brand-sizing-stroke-md) * 1px);
+  border-style: solid;
+  border-color: transparent;
+  font-family: var(--brand-typography-font-family-label);
+  font-size: calc(var(--semantic-sizing-typography-font-size-label-medium) * 1px);
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 150ms ease;
+}
+
+.ds-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.ds-button:not(:disabled):hover {
+  opacity: 0.9;
+}
+
+/* Variants */
+.ds-button--primary {
+  background-color: var(--semantic-color-background-secondary-default);
+  color: var(--primitive-color-white-500);
+}
+
+.ds-button--secondary {
+  background-color: transparent;
+  border-color: var(--semantic-color-border-default);
+  color: var(--semantic-color-typography-primary-default);
+}
+
+.ds-button--danger {
+  background-color: var(--brand-color-danger-100);
+  color: var(--primitive-color-white-500);
+}
+
+/* Sizes */
+.ds-button--sm {
+  padding: calc(var(--primitive-spacing-scale-030) * 1px) calc(var(--primitive-spacing-scale-050) * 1px);
+  font-size: calc(var(--semantic-sizing-typography-font-size-label-small) * 1px);
+}
+
+.ds-button--md {
+  padding: calc(var(--primitive-spacing-scale-050) * 1px) calc(var(--primitive-spacing-scale-080) * 1px);
+}
+
+.ds-button--lg {
+  padding: calc(var(--primitive-spacing-scale-070) * 1px) calc(var(--primitive-spacing-scale-100) * 1px);
+  font-size: calc(var(--semantic-sizing-typography-font-size-label-large) * 1px);
+}
