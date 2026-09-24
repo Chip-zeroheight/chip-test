@@ -2,6 +2,12 @@
 
 Auto-generated from commit history. Do not edit by hand.
 
+- **2026-09-24** — Merge pull request #11 from Chip-zeroheight/zeroheight-tokens-20260924221221 ([960637c](https://github.com/Chip-zeroheight/chip-test/commit/960637c9aa5cd061a0ac59970e5a1a6f474a15f8))
+- **2026-09-24** — Update Mode 1/WhiteLabel/Desktop tokens (DTCG JSON) from zeroheight ([e4127ce](https://github.com/Chip-zeroheight/chip-test/commit/e4127ce33e5e504faccb8f90e7b5862f9946b6e2))
+- **2026-09-24** — Update Mode 1/Offset/Desktop tokens (DTCG JSON) from zeroheight ([e76045c](https://github.com/Chip-zeroheight/chip-test/commit/e76045cc2bbc1552ea78def28d14d7c9083c12d1))
+- **2026-09-24** — Update Mode 1/Baseline Pro/Desktop tokens (DTCG JSON) from zeroheight ([36bcecc](https://github.com/Chip-zeroheight/chip-test/commit/36bcecc7ddd1763d58772138c6552fd9c44ba7b9))
+- **2026-09-24** — Update Mode 1/Baseline/Desktop tokens (DTCG JSON) from zeroheight ([7714725](https://github.com/Chip-zeroheight/chip-test/commit/77147255153cc86e1509df5c873ceaaad6febef5))
+- **2026-09-24** — Update CHANGELOG.md [skip ci] ([4181bb1](https://github.com/Chip-zeroheight/chip-test/commit/4181bb1209a74547e3841a14458a4f8c212c130a))
 - **2026-09-24** — Merge pull request #10 from Chip-zeroheight/zeroheight-tokens-20260924212728 ([8d83447](https://github.com/Chip-zeroheight/chip-test/commit/8d8344711451f1cd97db29eb9cf3ba445d5f3fb6))
 - **2026-09-24** — Update Mode 1/WhiteLabel/Desktop tokens (DTCG JSON) from zeroheight ([df7be48](https://github.com/Chip-zeroheight/chip-test/commit/df7be48e810f83d0b808f6ca252aa0e910c46bb2))
 - **2026-09-24** — Update Mode 1/Offset/Desktop tokens (DTCG JSON) from zeroheight ([85432ba](https://github.com/Chip-zeroheight/chip-test/commit/85432ba1bc24de26aa7e0d5399bd7fc452f042ab))
